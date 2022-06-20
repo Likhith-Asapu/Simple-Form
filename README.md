@@ -19,6 +19,6 @@ To start running the code use
 npm start
 ```
 
-The code can be found in the src/ FormFolder/ form.js
+The code can be found in the src/ FormFolder/ form.js. The form can be accessed at http://localhost:3000/form.
 
 
